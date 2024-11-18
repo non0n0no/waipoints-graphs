@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: d93bcd6593b5597498434ffd5bedc62e
+  productGUID: 169339bb95a2bd3408f25ef7a91e72f7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: waypoints graphs
+  productName: Waypoints & Graphs
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -721,11 +721,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4b5a91eb-2c2a-4ebd-82c2-f7e1cb4ca64e
+  cloudProjectId: 12b45fca-35fd-4ad3-8f7c-58f1f6028e87
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: waypoints graphs 2024-11-18_05-17-11
-  organizationId: nonoribeiro
+  projectName: Waypoints & Graphs
+  organizationId: argent-s-worlds-lab
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
